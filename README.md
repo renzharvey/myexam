@@ -1,8 +1,8 @@
 # myexam
 First import the tbl_user to mysql to do that,
-go to localhost/phpmyadmin/
-create database name it as "users"
-then click import then select the tbl_user file
+go to localhost/phpmyadmin/,
+create database and name it as "users"
+then click import then select the tbl_user.sql file.
 
 extract the myexam.rar  into your htdocs folder.
 
